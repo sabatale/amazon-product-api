@@ -12,15 +12,16 @@
     "dependencies": {
         "async": "^3.2.0",
         "bluebird": "^3.7.2",
-        "cheerio": "^1.0.0-rc.3",
+        "cheerio": "^1.0.0-rc.10",
         "json2csv": "^4.5.3",
         "moment": "^2.27.0",
         "ora": "^4.0.2",
-        "request": "^2.88.0",
-        "request-promise": "^4.2.4",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6",
         "socks-proxy-agent": "^5.0.0",
         "tough-cookie": "^3.0.1",
-        "yargs": "^14.2.0"
+        "yargs": "^14.2.0",
+        "lodash": "^4.17.21"
     },
     "devDependencies": {},
     "scripts": {
